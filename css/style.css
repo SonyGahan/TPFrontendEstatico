@@ -173,7 +173,7 @@ h6 {
 #intro {
   width: 100%;
   position: relative;
-  background: url("../img/intro-bgTP.png") center bottom no-repeat;
+  background: url("../img/intro-bgTP5.jpg") center bottom no-repeat;
   background-size: cover;
   padding: 200px 0 120px 0;
 }
@@ -196,7 +196,7 @@ h6 {
 }
 
 #intro .intro-info h2 span {
-  color: #74b5fc;
+  color: #3b92cc;
   text-decoration: underline;
 }
 
@@ -263,7 +263,7 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #690089;
+  color: #4d0164;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
